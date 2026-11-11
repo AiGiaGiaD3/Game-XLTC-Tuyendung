@@ -1,0 +1,167 @@
+{
+  "passed": true,
+  "cases": 30,
+  "questionVariants": 120,
+  "checks": [
+    "content mapping",
+    "wrong answer retry",
+    "shield",
+    "checkpoint rescue",
+    "timeout",
+    "30 distinct routes and reachable checkpoints",
+    "unlock progression",
+    "home return"
+  ],
+  "results": [
+    {
+      "checkpoint": 1,
+      "seconds": 6,
+      "rescues": 0
+    },
+    {
+      "checkpoint": 2,
+      "seconds": 6,
+      "rescues": 0
+    },
+    {
+      "checkpoint": 3,
+      "seconds": 7,
+      "rescues": 0
+    },
+    {
+      "checkpoint": 4,
+      "seconds": 7,
+      "rescues": 0
+    },
+    {
+      "checkpoint": 5,
+      "seconds": 7,
+      "rescues": 0
+    },
+    {
+      "checkpoint": 6,
+      "seconds": 7,
+      "rescues": 0
+    },
+    {
+      "checkpoint": 7,
+      "seconds": 8,
+      "rescues": 0
+    },
+    {
+      "checkpoint": 8,
+      "seconds": 11,
+      "rescues": 1
+    },
+    {
+      "checkpoint": 9,
+      "seconds": 8,
+      "rescues": 0
+    },
+    {
+      "checkpoint": 10,
+      "seconds": 8,
+      "rescues": 0
+    },
+    {
+      "checkpoint": 11,
+      "seconds": 8,
+      "rescues": 0
+    },
+    {
+      "checkpoint": 12,
+      "seconds": 8,
+      "rescues": 0
+    },
+    {
+      "checkpoint": 13,
+      "seconds": 8,
+      "rescues": 0
+    },
+    {
+      "checkpoint": 14,
+      "seconds": 7,
+      "rescues": 0
+    },
+    {
+      "checkpoint": 15,
+      "seconds": 10,
+      "rescues": 0
+    },
+    {
+      "checkpoint": 16,
+      "seconds": 7,
+      "rescues": 0
+    },
+    {
+      "checkpoint": 17,
+      "seconds": 8,
+      "rescues": 0
+    },
+    {
+      "checkpoint": 18,
+      "seconds": 7,
+      "rescues": 0
+    },
+    {
+      "checkpoint": 19,
+      "seconds": 11,
+      "rescues": 1
+    },
+    {
+      "checkpoint": 20,
+      "seconds": 8,
+      "rescues": 0
+    },
+    {
+      "checkpoint": 21,
+      "seconds": 9,
+      "rescues": 0
+    },
+    {
+      "checkpoint": 22,
+      "seconds": 8,
+      "rescues": 0
+    },
+    {
+      "checkpoint": 23,
+      "seconds": 13,
+      "rescues": 1
+    },
+    {
+      "checkpoint": 24,
+      "seconds": 8,
+      "rescues": 0
+    },
+    {
+      "checkpoint": 25,
+      "seconds": 16,
+      "rescues": 1
+    },
+    {
+      "checkpoint": 26,
+      "seconds": 9,
+      "rescues": 0
+    },
+    {
+      "checkpoint": 27,
+      "seconds": 13,
+      "rescues": 1
+    },
+    {
+      "checkpoint": 28,
+      "seconds": 10,
+      "rescues": 0
+    },
+    {
+      "checkpoint": 29,
+      "seconds": 10,
+      "rescues": 0
+    },
+    {
+      "checkpoint": 30,
+      "seconds": 10,
+      "rescues": 0
+    }
+  ]
+}
